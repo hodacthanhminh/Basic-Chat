@@ -1,0 +1,80 @@
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.Chat.resources
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.Login.resources
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.Register.resources
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Final Chatbox\recode\Client\obj\Debug\Client.pdb
+C:\Users\COMPUTER\Desktop\recode\Client\bin\Debug\Client.exe.config
+C:\Users\COMPUTER\Desktop\recode\Client\bin\Debug\Client.exe
+C:\Users\COMPUTER\Desktop\recode\Client\bin\Debug\Client.pdb
+C:\Users\COMPUTER\Desktop\recode\Client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Chat.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Login.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.MainForm.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Register.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.exe
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.pdb
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.GameForm.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Info.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.FormRoom.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Join.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\COMPUTER\Desktop\recode\Client\obj\Debug\Client.Passchange.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Chat.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.FormRoom.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.GameForm.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Info.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Join.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Login.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Passchange.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.Register.resources
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\Final Chatbox\Final\Client\obj\Debug\Client.OutRoom.resources
+C:\Users\hodac\Downloads\Final\Client\bin\Debug\Client.exe.config
+C:\Users\hodac\Downloads\Final\Client\bin\Debug\Client.exe
+C:\Users\hodac\Downloads\Final\Client\bin\Debug\Client.pdb
+C:\Users\hodac\Downloads\Final\Client\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Chat.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.FormRoom.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.GameForm.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Info.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Join.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Login.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.MainForm.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.OutRoom.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Passchange.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.Register.resources
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.exe
+C:\Users\hodac\Downloads\Final\Client\obj\Debug\Client.pdb
